@@ -6,14 +6,16 @@ I have made a beautiful, bitcoin exchange rate app. I am able to check the coin 
 
 ## What I've learned
 
-* Learn about the delegate pattern.
-* Swift protocols and extensions. 
-* Swift guard keyword. 
-* Swift computed properties.
-* Swift closures and completion handlers.
-* Learn to use URLSession to network and make HTTP requests.
-* Parse JSON with the native Encodable and Decodable protocols. 
-* Learn to use Grand Central Dispatch to fetch the main thread.
-* Learn to use Core Location to get the current location from the phone GPS.
+* How to implement the delegate pattern in Swift.
+* Understanding Swift protocols and extensions.
+* Utilizing the Swift guard keyword for safe unwrapping.
+* Implementing Swift computed properties for dynamic data.
+* Understanding Swift closures and completion handlers for asynchronous operations.
+* How to use URLSession for networking and making HTTP requests.
+* Parsing JSON with the native Encodable and Decodable protocols in Swift.
+* Utilizing Grand Central Dispatch (GCD) to manage concurrency and fetch data on the main thread.
+
+## Screenshot
+![ByteCoin](https://github.com/Pathompat-m/tipsy/assets/151487556/3864affd-6982-41ed-99f6-d7c250476f29)
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp.
