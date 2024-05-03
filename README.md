@@ -1,8 +1,8 @@
 #  ByteCoin
 
-## What I've created
+## Overview
 
-I have made a beautiful, bitcoin exchange rate app. I am able to check the coin price for the current time based on the currency data.
+ByteCoin offers real-time Bitcoin exchange rate updates, providing users with current coin prices based on currency data.
 
 ## What I've learned
 
